@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/Images">
+        <file>Background1.jpg</file>
+        <file>bird1down.png</file>
+        <file>bird1up.png</file>
+        <file>bird2down.png</file>
+        <file>bird2up.png</file>
+        <file>bird3dazed.png</file>
+        <file>bird3down.png</file>
+        <file>bird3up.png</file>
+        <file>Bow.png</file>
+        <file>Arrow1.png</file>
+        <file>Puff.png</file>
+        <file>ArrowGameIcon.ico</file>
+    </qresource>
+</RCC>
